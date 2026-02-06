@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👩‍💻 Kritika Singh  
 
 🎓 B.Tech in Computer Science & Engineering | Class of 2026  
