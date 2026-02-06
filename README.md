@@ -1,5 +1,122 @@
 # 💫 About Me:
-👩‍💻 About Me — Kritika Singh<br><br>I am Kritika Singh, a final-year B.Tech Computer Science and Engineering student graduating in 2026. I have a strong passion for both software development and data-driven business insights, with a particular interest in roles like Data Analyst, Business Analyst, and Software Engineer.<br><br>I enjoy building real-world applications, solving problems through code, and using data to drive smart decisions. I am skilled in:<br><br>✅ Excel & Power BI (Data preparation & reporting)<br><br>✅ SQL (Querying & database manipulation)<br><br>✅ JavaScript, React & Node.js (Full-stack applications)<br><br>✅ MongoDB, Express (Backend APIs & NoSQL)<br><br>✅ Git & GitHub (Version control & collaboration)<br><br>🧠 Core Strengths & Skills<br>Category	Skills<br>Data Tools	Excel, SQL, Power BI<br>Frontend	HTML, CSS, JavaScript, React<br>Backend	Node.js, Express.js, REST APIs<br>Database	MongoDB<br>Concepts	UI/UX, Full-stack development, Data visualization<br>📂 Selected Projects<br><br>Here are some key projects from my GitHub that showcase both software development and product thinking:<br><br>🔗 Bingebuddy — A Next.js Full‑stack App<br><br>A full-stack application built with Next.js that includes both frontend and backend parts. It demonstrates my ability to structure scalable projects and work with modern JavaScript frameworks.<br><br>Tech: Next.js, React, Tailwind, Node.js, APIs<br><br>📣 Campus‑Feed — Campus Social Platform<br><br>A responsive full-stack campus social application to share events, announcements, lost & found posts etc. This project uses advanced features such as:<br><br>AI-based prompt classification (OpenAI)<br><br>File uploads<br><br>Real-time feed and RSVP system<br><br>Tech: React (Vite), Node.js, Express.js, MongoDB, OpenAI API<br><br>💊 Pharmaverse — Smart Inventory & Analytics System<br><br>A pharmacy management system with real-time inventory tracking, analytics dashboards, secure authentication, and data visualizations — demonstrating product thinking for data presentation and role-based user flows.<br><br>Tech: Next.js, React, MongoDB, Chart.js, JWT<br><br>🏡 Stay Mate — Roommate Finder App<br><br>A full-stack application for listing and searching rooms with secure user authentication and interactive mapping features.<br><br>Tech: React, Node.js, Express, MongoDB, Leaflet.js<br><br>🧾 CODSOFT — Frontend Internship Work<br><br>A showcase of frontend projects including landing pages and utility tools built using HTML, CSS and JavaScript during my internship journey.<br><br>Focus: Responsive design, clean UI<br><br>🚀 What I’m Looking For<br><br>I am actively pursuing opportunities in:<br><br>Data Analytics<br><br>Business Analysis<br><br>Software Development & Engineering<br><br>I aim to leverage my combination of data tools, backend and frontend skills to build meaningful products, extract insights from data, and contribute to innovative teams.<br><br>📫 Connect With Me<br><br>Let’s collaborate!<br>📧 Email: kritikasingh6881@gmail.com<br><br>🔗 LinkedIn: https://www.linkedin.com/in/kritika-singh-40a1a8256
+# 👩‍💻 Kritika Singh  
+
+🎓 B.Tech in Computer Science & Engineering | Class of 2026  
+📊 Aspiring Data Analyst | Business Analyst | Software Developer  
+
+---
+
+## 🌟 About Me  
+
+Hi! I'm **Kritika Singh**, a final-year Computer Science student with a strong interest in both **software development** and **data-driven decision making**.
+
+I love building real-world applications, exploring insights through data, and creating scalable digital solutions. I enjoy turning ideas into working products and numbers into meaningful stories.
+
+---
+
+## 🛠️ Technical Skills  
+
+### 📊 Data & Analytics  
+- Excel (Data cleaning & reporting)  
+- SQL (Queries, joins, analysis)  
+- Power BI (Dashboards & visualization)  
+
+### 💻 Development  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+
+### ⚙️ Tools & Concepts  
+- Git & GitHub  
+- REST APIs  
+- UI/UX basics  
+- Full-stack development  
+- Data visualization  
+
+---
+
+## 📈 Skill Overview  
+
+| Area | Technologies |
+|-----|-------------|
+| 📊 Data Tools | Excel, SQL, Power BI |
+| 🎨 Frontend | HTML, CSS, JavaScript, React |
+| 🧠 Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB |
+| 🚀 Concepts | Full-stack Dev, Analytics, UI/UX |
+
+---
+
+## 📂 Featured Projects  
+
+### 🎬 Bingebuddy — Smart Movie Discovery Platform  
+A full-stack web app built with **Next.js** featuring frontend and backend integration, APIs, and modern UI.
+
+**Tech Stack:**  
+Next.js, React, Tailwind CSS, Node.js, APIs  
+
+---
+
+### 📣 Campus Feed — Campus Social Platform  
+A full-stack platform for campus announcements, events, and lost & found with smart features like:
+
+✔ AI-based post classification  
+✔ Image uploads  
+✔ Real-time feed & RSVP system  
+
+**Tech Stack:**  
+React (Vite), Node.js, Express, MongoDB, OpenAI API  
+
+---
+
+### 💊 Pharmaverse — Inventory & Analytics System  
+A pharmacy management system with:
+
+📦 Real-time inventory  
+📊 Analytics dashboards  
+🔐 Secure authentication  
+
+**Tech Stack:**  
+Next.js, React, MongoDB, Chart.js, JWT  
+
+---
+
+### 🏡 Stay Mate — Roommate Finder App  
+A housing platform with search, authentication, and map integration.
+
+**Tech Stack:**  
+React, Node.js, Express, MongoDB, Leaflet.js  
+
+---
+
+### 🧾 CODSOFT — Frontend Internship Projects  
+Collection of responsive landing pages and utilities built during internship.
+
+**Focus:**  
+Clean UI, responsiveness, JavaScript fundamentals  
+
+---
+
+## 🎯 Career Interests  
+
+I’m actively seeking opportunities in:
+
+- 📊 Data Analyst  
+- 📈 Business Analyst  
+- 💻 Software Engineer / Full-Stack Developer  
+
+My goal is to combine **technical development** with **data insights** to build impactful digital products.
+
+---
+
+## 📫 Let’s Connect  
+
+📧 **Email:** kritikasingh6881@gmail.com  
+🔗 **LinkedIn:** [Kritika Singh](https://www.linkedin.com/in/kritika-singh-40a1a8256)  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
